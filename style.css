@@ -2,8 +2,11 @@ body{
 	font-family:Georgia,sans-serif;
 	background-color: #8A0808;
 }
-header{
-color: white;
+hgroup{
+	color: white;
+}
+nav{
+	color: yellow;
 }
 section{
 
