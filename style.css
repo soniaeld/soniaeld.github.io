@@ -3,7 +3,6 @@ body{
 	background-color: #8A0808;
 }
 hgroup{
-	width: 80%;
 	color: white;
 	margin-right: auto;
 	margin-left: auto;
@@ -14,7 +13,7 @@ nav{
 section{
 
 }
-footer{
+footer{ 
 	color: yellow;
 
 }
