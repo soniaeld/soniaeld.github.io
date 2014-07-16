@@ -3,11 +3,12 @@ body{
 	background-color: #8A0808;
 }
 header{
+	width: 80%;
 	color: white;
 	margin-right: auto;
 	margin-left: auto;
 }
-nav{
+footer{
 	color: yellow;
 }
 section{
