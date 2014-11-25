@@ -2,24 +2,17 @@
 	background: #FFF; 
 	border: 1px solid #AAA;
 	border-bottom: 3px solid #BBB;
-	padding: 0px;
-	margin: 15px;
+	padding: 20px;
 	overflow: hidden;
 }
 .title {
-	margin-left: 100px;
-	margin-right: 100px;
 	padding: 10px;
 	padding-bottom: 0px;
 }
 .verse {
-	margin-left: 100px;
-	margin-right: 100px;
 	padding: 10px;
 }
 .reference {
-	margin-left: 100px;
-	margin-right: 100px;
 	padding: 10px;
 }
 
