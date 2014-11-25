@@ -5,9 +5,20 @@
 	padding: 0px;
 	margin: 15px;
 	overflow: hidden;
-	 }
-
-
+}
+.title {
+	margin: 0px;
+	padding: 10px;
+	padding-bottom: 0px;
+}
+.verse {
+	margin: 0px;
+	padding: 10px;
+}
+.reference {
+	margin: 0px;
+	padding: 10px;
+}
 
 
 
